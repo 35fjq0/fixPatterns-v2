@@ -1,5 +1,5 @@
 # Expanding Fix Patterns to Enable Automatic Program Repair
-Replication package for the research paper accepted at The 32nd International Symposium on Software Reliability Engineering (ISSRE 2021).
+Replication package for the research paper "Automatically Discovering Fix Patterns for Automatic Program Repair".
 
 
 I. Requirements
