@@ -52,9 +52,11 @@ III. Prepare Defects4J Bugs
  ```powershell
   |--- README.md               :  user guidance
   |--- TBar.md                 :  TBar fix patters
+  |--- FP_taxonomy             :  a taxonomy of fix patterns
   |--- MatchingFPs             :  matching fix patterns
   |--- UnigramFPs              :  fix patterns generated with unigrams
-  |--- NewFPs                  :  new fix patterns
+  |--- NewFPs                  :  new fix patterns on the Sun Tools parser
+  |--- NewFPs_JavaParser       :  new fix patterns based on the Java parser
   |--- installD4J.sh           :  a script to install Defects4J
   |--- checkoutD4JBugs.sh      :  a script to checkout Defects4J bugs and fixes
 
