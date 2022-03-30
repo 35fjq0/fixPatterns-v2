@@ -57,6 +57,7 @@ III. Prepare Defects4J Bugs
   |--- UnigramFPs              :  fix patterns generated with unigrams
   |--- NewFPs                  :  new fix patterns on the Sun Tools parser
   |--- NewFPs_JavaParser       :  new fix patterns based on the Java parser
+  |--- RankedFPs.              :  ranked fix patterns
   |--- installD4J.sh           :  a script to install Defects4J
   |--- checkoutD4JBugs.sh      :  a script to checkout Defects4J bugs and fixes
 
