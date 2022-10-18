@@ -53,6 +53,7 @@ III. Prepare Defects4J Bugs
   |--- README.md               :  user guidance
   |--- TBar.md                 :  TBar fix patters
   |--- FP_taxonomy             :  a taxonomy of fix patterns
+  |--- NodeTypes               :  AST node types
   |--- MatchingFPs             :  matching fix patterns
   |--- UnigramFPs              :  fix patterns generated with unigrams
   |--- NewFPs                  :  new fix patterns on the Sun Tools parser
